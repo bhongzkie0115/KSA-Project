@@ -1,0 +1,16 @@
+.robots {
+	margin-right: auto;
+	margin-left: auto;
+	padding: 5px;
+	border: 2px solid black;
+	width: 300px;
+	margin-bottom: 15px;
+	margin-right: 15px;
+	float: right;
+}
+
+.robots img{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
